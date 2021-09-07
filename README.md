@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 <p align="center">
-  <img src="https://github.com/Nikolatesla2001/arunachalam/arunachalam-saloon-sipcot-sivaganga-mx6un.jpg" width="350" alt="accessibility text">
+  <img src="https://github.com/Nikolatesla2001/arunachalam/blob/main/arunachalam-saloon-sipcot-sivaganga-mx6un.jpg" width="350" alt="accessibility text">
 </p>
 You can use the [editor on GitHub](https://github.com/Nikolatesla2001/arunachalam/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
